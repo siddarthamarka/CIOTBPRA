@@ -1,4 +1,4 @@
-# 🫀 CIOT-BPRA — Cloud-Integrated IoT Blood Pressure Risk Analysis System
+# 🫀 CIOT-BPRA — Cloud-Integrated IoT System For Real-Time Blood Pressure Monitoring With Deep Learning-Based Risk Analysis System
 
 <div align="center">
 
